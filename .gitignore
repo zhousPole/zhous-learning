@@ -1,0 +1,10 @@
+# IDEA
+.idea/
+*.iml
+
+# Maven (examples)
+target
+
+# OS X
+.DS_Store
+
